@@ -1,0 +1,23 @@
+{
+  "name": "sticky-notes",
+  "version": "1.0.0",
+  "description": "## User Story ``` AS A small business owner I WANT to be able to write and save notes SO THAT I can organize my thoughts and keep track of tasks I need to complete ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marikadicarlo/sticky-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marikadicarlo/sticky-notes/issues"
+  },
+  "homepage": "https://github.com/marikadicarlo/sticky-notes#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
