@@ -1,7 +1,7 @@
 {
   "name": "sticky-notes",
   "version": "1.0.0",
-  "description": "## User Story ``` AS A small business owner I WANT to be able to write and save notes SO THAT I can organize my thoughts and keep track of tasks I need to complete ```",
+  "description": "This application will allow users to write and save notes. This application uses an Express.js back end and will save and retrieve note data from the JSON file.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +11,12 @@
     "url": "git+https://github.com/marikadicarlo/sticky-notes.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marika Di Carlo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/marikadicarlo/sticky-notes/issues"
   },
-  "homepage": "https://github.com/marikadicarlo/sticky-notes#readme",
+  "homepage": "https://github.com/marikadicarlo/sticky-notes",
   "dependencies": {
     "express": "^4.17.2"
   }
