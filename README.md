@@ -39,11 +39,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 CLone the repository to your local development environment <br />
 `git clone https://github.com/marikadicarlo/sticky-notes`
 
-Run `npm install` to install dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. 
+Run `npm install` to install dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3001` in your preferred browswer. 
 
 
 ## Link
-[Link to the Deployed Site:](https://stark-peak-32409.herokuapp.com/notes)
+[Link to the Deployed Site:](https://stark-peak-32409.herokuapp.com/notes) <br />
 [Link to the GitHub Repository:](https://github.com/marikadicarlo/sticky-notes)
 
 
