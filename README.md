@@ -1,6 +1,6 @@
 # Sticky-Notes
 
-[Click Here for a Preview](https://drive.google.com/file/d/1klTL41yw8aYfsQRd66Vs7sgMQjchBiJZ/view)
+[Click Here Video](https://drive.google.com/file/d/1klTL41yw8aYfsQRd66Vs7sgMQjchBiJZ/view)
 ![sticky-notes](/stickynotes.png)
 
 # Description
