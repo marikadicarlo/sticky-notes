@@ -1,4 +1,10 @@
-# sticky-notes
+# Sticky-Notes
+
+![Photo]()
+[Deployed Link]()
+
+# Description
+This application will allow users to write and save notes. This application uses an Express.js back end and will save and retrieve note data from the JASON file.
 
 ## User Story
 ```
