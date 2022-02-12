@@ -1,7 +1,7 @@
 # Sticky-Notes
 
-![Photo]()
-[Deployed Link]()
+[Click here for a Video Demonstration](https://drive.google.com/file/d/1klTL41yw8aYfsQRd66Vs7sgMQjchBiJZ/view)
+![](stickynotes.gif)
 
 # Description
 This application will allow users to write and save notes. This application uses an Express.js back end and will save and retrieve note data from the JASON file.
@@ -30,3 +30,22 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
+## Table of Contents
+- [Installation](#Installation)
+- [Link](#Link)
+- [Questions](#Questions)
+
+## Installation
+CLone the repository to your local development environment <br />
+`git clone https://github.com/marikadicarlo/sticky-notes`
+
+Run `npm install` to install dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. 
+
+
+## Link
+[Link to the Deployed Site:](https://stark-peak-32409.herokuapp.com/notes)
+[Link to the GitHub Repository:](https://github.com/marikadicarlo/sticky-notes)
+
+
+## Questions
+Contact me with any questions at <mdicarlo19@yahoo.com> or [visit my GitHub page](https://github.com/marikadicarlo)
