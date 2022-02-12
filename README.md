@@ -1,10 +1,10 @@
 # Sticky-Notes
 
-[Click here for a Video Demonstration](https://drive.google.com/file/d/1klTL41yw8aYfsQRd66Vs7sgMQjchBiJZ/view)
-![](stickynotes.gif)
+[Click Here for a Preview](https://drive.google.com/file/d/1klTL41yw8aYfsQRd66Vs7sgMQjchBiJZ/view)
+[](stickynotes.gif)
 
 # Description
-This application will allow users to write and save notes. This application uses an Express.js back end and will save and retrieve note data from the JASON file.
+This application will allow users to write and save notes. This application uses an Express.js back end and will save and retrieve note data from the JSON file.
 
 ## User Story
 ```
@@ -42,9 +42,9 @@ CLone the repository to your local development environment <br />
 Run `npm install` to install dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3001` in your preferred browswer. 
 
 
-## Link
-[Link to the Deployed Site:](https://stark-peak-32409.herokuapp.com/notes) <br />
-[Link to the GitHub Repository:](https://github.com/marikadicarlo/sticky-notes)
+## Links
+[Link to the Deployed Site](https://stark-peak-32409.herokuapp.com/notes) <br />
+[Link to the GitHub Repository](https://github.com/marikadicarlo/sticky-notes)
 
 
 ## Questions
