@@ -1,7 +1,7 @@
 # Sticky-Notes
 
 [Click Here for a Preview](https://drive.google.com/file/d/1klTL41yw8aYfsQRd66Vs7sgMQjchBiJZ/view)
-[](stickynotes.gif)
+[](https://drive.google.com/file/d/1klTL41yw8aYfsQRd66Vs7sgMQjchBiJZ/view)
 
 # Description
 This application will allow users to write and save notes. This application uses an Express.js back end and will save and retrieve note data from the JSON file.
